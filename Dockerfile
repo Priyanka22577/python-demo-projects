@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-WORKDIR /mydata
+WORKDIR /python_demo/mydata
 
 COPY . .
 
